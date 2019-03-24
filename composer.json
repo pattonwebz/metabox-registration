@@ -1,0 +1,18 @@
+{
+    "name": "pattonwebz/metabox-registration",
+    "description": "A base class for extending when adding metaboxes.",
+    "type": "library",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "William Patton",
+            "email": "will@pattonwebz.com"
+        }
+    ],
+	"autoload": {
+		"files": [
+			"AbstractMetabox.php"
+		]
+	},
+    "require": {}
+}
